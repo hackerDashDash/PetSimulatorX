@@ -5,9 +5,8 @@ Just execute this into your executor(Download an executor [here](https://krnl.ca
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/PetSimulatorXV2.lua",true))()
 ```
 <br>
-<br>
 **EzPets key bypass**
 <br>
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/EZPETSKEY_BYPASS.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/EZPETS_BYPASS.lua",true))()
 ```
