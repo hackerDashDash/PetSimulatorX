@@ -9,3 +9,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSim
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/EZPETS_BYPASS.lua",true))()
 ```
+**Pet Simulator X Fake Equip**
+<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/petSimulatorXEquipV2.lua",true))()
+```
