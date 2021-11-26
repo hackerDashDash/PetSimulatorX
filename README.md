@@ -14,3 +14,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSim
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/petSimulatorXEquipV2.lua",true))()
 ```
+**Pet Simulator X Visual Huge Cat Spawner**
+<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/HugeCatsObfuscated.lua",true))()
+```
