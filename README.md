@@ -19,3 +19,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSim
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/HugeCatsObfuscated.lua",true))()
 ```
+**Pet Simulator X Equip Every Pet In Game at Once**
+<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/eqAll.lua",true))()
+```
