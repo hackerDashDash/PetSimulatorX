@@ -24,3 +24,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSim
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/eqAll.lua",true))()
 ```
+**Pet Simulator X Hatch Infinite Robux Eggs**
+<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/infiniteRobuxEgg.lua",true))()
+```
